@@ -15,3 +15,10 @@ def ip_int_tuple():
 
 def ip_tuple():
     return input().split()
+
+def solve():
+    pass
+
+t = ip_int()
+for _ in range(t):
+    solve()
